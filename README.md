@@ -1,6 +1,6 @@
 # Proyecto-1---Books
 
-This is my first project. Is about books.
+This is my first project. It is about books.
 
 How many books are in the world?
 
